@@ -1,6 +1,6 @@
-FROM elixir:1.4.2
+FROM elixir:1.5.2
 
-ENV NODE_VERSION=6.10.2 \
+ENV NODE_VERSION=8.9.1 \
     LANG=C.UTF-8 \
     NPM_CONFIG_LOGLEVEL=info
 
